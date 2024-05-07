@@ -85,6 +85,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![Screenshot 2024-04-17 091616](https://github.com/jagadeesh9500/Calc/assets/149087921/05583a7f-adf4-41b8-a881-b7243492468c)
 ![Screenshot 2024-04-17 091637](https://github.com/jagadeesh9500/Calc/assets/149087921/eab344be-bb69-4230-8e3c-e1152b2de803)
+![Screenshot 2024-04-17 091616](https://github.com/jagadeesh9500/Calc/assets/149087921/0fb2dfb7-f1c2-4207-b57e-7bd9b61734ef)
 
 
 ## RESULT:
